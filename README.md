@@ -1,6 +1,6 @@
-# DevRev On-Campus Project Round
+Self Project 1
 
-Library Management using MERN is a full-stack web application that allows users to manage books, borrowers, and borrowing transactions in a library setting. It utilizes the MERN stack, which includes MongoDB for the database, Express.js for the server, React.js for the frontend, and Node.js for the backend. With this application, users can perform operations such as adding new books, tracking borrowed books, managing borrower details, and generating reports. The application provides an intuitive and user-friendly interface for efficient library management.
+This is a full-stack web app built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It helps manage books, users, and borrow-return records in a library. The system allows users to add and search books, manage borrowers, and keep track of borrowed and returned books. It also has a simple and easy-to-use interface for both users and admins.
 
 ## Tech Stack
 
@@ -10,13 +10,13 @@ Library Management using MERN is a full-stack web application that allows users 
 
 ## Features
 
-- User Registration and Authentication
-- Book Catalog
-- Book Search and Filters
-- Borrowing and Return Management
-- User Profile Management
-- Administrative Dashboard
-- Integration with External APIs
+- User signup/login with authentication
+- Add, view, and search books
+- Filter books by category or availability
+- Borrow and return tracking system
+- User profile with borrowing history
+- Admin dashboard for managing data
+- API integration for extra features (e.g., book info)
 
 ## Run Locally
 
@@ -61,37 +61,3 @@ cd client
 npm start
 ```
 
-## Authors
-
-- [@AnuragRoshan](https://github.com/AnuragRoshan)
-
-## Feedback
-
-If you have any feedback, please reach out to us at anuragraushan373@gmail.com
-
-## Landing Page
-
-![lndng](https://github.com/AnuragRoshan/LibraryManagement/blob/main/client/public/web-img/landing.jpg?raw=true)
-
-## Home Page
-
-![hm1](https://github.com/AnuragRoshan/LibraryManagement/blob/main/client/public/web-img/home-1.jpg?raw=true)
-![hm2](https://github.com/AnuragRoshan/LibraryManagement/blob/main/client/public/web-img/home-2.jpg?raw=true)
-
-## Cart Page
-
-![crt](https://github.com/AnuragRoshan/LibraryManagement/blob/main/client/public/web-img/cart.jpg?raw=true)
-
-## Member List And Borrower Page
-
-![memb](https://github.com/AnuragRoshan/LibraryManagement/blob/main/client/public/web-img/member.jpg?raw=true)
-![brw](https://github.com/AnuragRoshan/LibraryManagement/blob/main/client/public/web-img/borrower.jpg?raw=true)
-
-## Login And SignUp Pages
-
-![lgn](https://github.com/AnuragRoshan/LibraryManagement/blob/main/client/public/web-img/logins.jpg?raw=true)
-![sgnup](https://github.com/AnuragRoshan/LibraryManagement/blob/main/client/public/web-img/signup.jpg?raw=true)
-
-## Profile Edit Page
-
-![profile](https://github.com/AnuragRoshan/LibraryManagement/blob/main/client/public/web-img/profileEdit.jpg?raw=true)
